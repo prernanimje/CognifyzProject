@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4df14969-b74d-48c1-9e0e-b6f39ec39e69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="4df14969-b74d-48c1-9e0e-b6f39ec39e69" name="Changes" comment="level 2 task 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/level2/task1/tictactoe/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/level2/task1/TicTacToe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +34,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.RandomPassword">
-    <configuration name="GradeSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.task3.GradeSystem" />
+}</component>
+  <component name="RunManager" selected="Application.FileEncryptionDecryption">
+    <configuration name="FileEncryptionDecryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.task3.FileEncryptionDecryption" />
       <module name="CognifyzProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level1.task3.*" />
+          <option name="PATTERN" value="level2.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +55,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.task2.Palindrome" />
+    <configuration name="LaunchGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.task1.tictactoe.LaunchGame" />
       <module name="CognifyzProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level1.task2.*" />
+          <option name="PATTERN" value="level2.task1.tictactoe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordStrengthChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.task2.PasswordStrengthChecker" />
+      <module name="CognifyzProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level2.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.task1.TemperatureConverter" />
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.task1.tictactoe.TicTacToe" />
       <module name="CognifyzProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level1.task1.*" />
+          <option name="PATTERN" value="level2.task1.tictactoe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,10 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileEncryptionDecryption" />
+        <item itemvalue="Application.PasswordStrengthChecker" />
+        <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="Application.LaunchGame" />
         <item itemvalue="Application.RandomPassword" />
-        <item itemvalue="Application.GradeSystem" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.TemperatureConverter" />
       </list>
     </recent_temporary>
   </component>
@@ -117,6 +126,28 @@
       <option name="presentableId" value="Default" />
       <updated>1708073502524</updated>
     </task>
+    <task id="LOCAL-00001" summary="level 1">
+      <created>1708334591741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708334591741</updated>
+    </task>
+    <task id="LOCAL-00002" summary="level 2 task 1">
+      <created>1709185267065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709185267065</updated>
+    </task>
+    <task id="LOCAL-00003" summary="level 2 task 2">
+      <created>1709185348153</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709185348153</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,5 +160,22 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="level 1" />
+    <MESSAGE value="level 2 task 1" />
+    <MESSAGE value="level 2 task 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="level 2 task 2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/level1/task4/RandomPassword.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
